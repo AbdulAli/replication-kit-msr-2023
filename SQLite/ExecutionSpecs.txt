@@ -1,0 +1,15 @@
+Calculation Specs:
+iOS 13.4.1
+iPhone 11
+
+
+Pre-assumption for UPDATE:
+10^7 records pre-populated
+
+
+Pre-assumption for INSERT:
+Empty database
+
+
+Pre-assumption for READ:
+10^7 records pre-populated
